@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="revaldir-linkedin"/>
  </a> &nbsp; &nbsp;
  <a href="mailto:revaldii32@gmail.com?subject=Hello%20Revaldi!" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="rivaldi-fsociety" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="revaldir-mail" />
  </a> &nbsp;&nbsp;
 </p>
 
