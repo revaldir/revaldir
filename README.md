@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <a href=""https://revaldir.github.io/portfolio/" target="blank">
+ <a href=""https://revaldir.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000" alt="revaldir-portfolio" />
  </a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/revaldir/" target="_blank">
